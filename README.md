@@ -27,3 +27,4 @@ setx OPENAI_API_KEY "your_api_key_here"
 3. 运行脚本：
    - `scripts/run_product_attr_extraction.py`：单条抽取示例
    - `scripts/run_eval_product_attr.py`：评测示例
+   - `scripts/run_product_attr_from_html.py` data/html/jd.com_100017384932.html
